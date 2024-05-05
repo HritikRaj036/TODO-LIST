@@ -1,0 +1,33 @@
+body{
+    background: lightblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btn{
+    background: tomato;
+    margin: 20px;
+}
+
+.add-btn{
+    background: lightgreen;
+    width: 40px;
+    height: 40px;
+}
+
+.app-title{
+    text-align: center;
+    color: black;
+    font-size: 70px;
+}
+
+.work{
+    height: 40px;
+    margin: 10px;
+}
+
+.container{
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: aliceblue;
+}
